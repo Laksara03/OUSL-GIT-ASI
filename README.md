@@ -1,2 +1,3 @@
 # OUSL-GIT-ASI
-This is a python use print greating messge project
+This repostory is created to demonstrate simple python script
+the hello.py file prints simple greating message
